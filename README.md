@@ -1,6 +1,10 @@
-# TIGHC/.github
+# TIGHC .github
 
 ![TIGHC](https://raw.githubusercontent.com/TIGHC/Engine/main/assets/logo.png)
+
+> **18+ only.** TIGHC connects to and controls adult haptic/sex toy devices
+> based on your keyboard and mouse input while gaming. Intended for use only
+> by adults aged 18 or older.
 
 GitHub organisation profile for [TIGHC](https://github.com/TIGHC).
 
