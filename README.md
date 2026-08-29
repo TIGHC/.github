@@ -1,5 +1,7 @@
 # TIGHC/.github
 
+![TIGHC](https://raw.githubusercontent.com/TIGHC/Engine/main/assets/logo.png)
+
 GitHub organisation profile for [TIGHC](https://github.com/TIGHC).
 
 ## Contents
