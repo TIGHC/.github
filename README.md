@@ -4,6 +4,9 @@
 
 GitHub organisation profile for [TIGHC](https://github.com/TIGHC).
 
+Website: https://tighc.stuxie.dev  
+Repository: https://github.com/TIGHC/.github
+
 ## Contents
 
 - **`profile/README.md`** — the public-facing organisation profile shown on
@@ -16,8 +19,6 @@ GitHub organisation profile for [TIGHC](https://github.com/TIGHC).
 | [Engine](https://github.com/TIGHC/Engine) | The haptics engine, GUI, and CLI |
 | [Profiles](https://github.com/TIGHC/Profiles) | Community game profiles |
 | [Website](https://github.com/TIGHC/Website) | Source for tighc.stuxie.dev |
-
-Website: https://tighc.stuxie.dev
 
 ## Author
 
