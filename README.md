@@ -16,3 +16,12 @@ GitHub organisation profile for [TIGHC](https://github.com/TIGHC).
 | [Website](https://github.com/TIGHC/Website) | Source for tighc.stuxie.dev |
 
 Website: https://tighc.stuxie.dev
+
+## Author
+
+<img src="https://raw.githubusercontent.com/TIGHC/Engine/main/assets/author.png" width="80" height="80" alt="StuxieDev" align="left" style="margin-right: 12px;">
+
+**[StuxieDev](https://github.com/StuxieDev)**
+
+<br>
+<br>
