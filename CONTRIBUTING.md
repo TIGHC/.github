@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TIGHC/Engine/main/assets/logo.png" width="500" alt="The Intiface Game Haptics Controller (TIGHC)">
+</p>
+
 # Contributing to TIGHC
 
 TIGHC is split across three repos, each with its own `CONTRIBUTING.md`:
