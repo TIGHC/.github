@@ -4,6 +4,12 @@ All notable changes to this project are documented here. Versioning follows
 [Semantic Versioning](https://semver.org/) (`MAJOR.MINOR.PATCH`), independent
 of the main [TIGHC](https://github.com/TIGHC/Engine) engine's own version.
 
+## [1.0.2]
+
+### Added
+- **`CONTRIBUTING.md`** — points to each repo's own CONTRIBUTING.md and
+  covers this repo's org-wide/community-health-file role.
+
 ## [1.0.1]
 
 ### Changed
