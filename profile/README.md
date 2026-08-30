@@ -1,10 +1,12 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TIGHC/Engine/main/assets/logo.png" width="500" alt="The Intiface Game Haptics Controller (TIGHC)">
+</p>
+
 # The Intiface Game Haptics Controller
 
 > **18+ only.** TIGHC connects to and controls adult haptic/sex toy devices
 > based on your keyboard and mouse input while gaming. Intended for use only
 > by adults aged 18 or older.
-
-![TIGHC](https://raw.githubusercontent.com/TIGHC/Engine/main/assets/logo.png)
 
 TIGHC links your keyboard and mouse input to a Buttplug/Intiface haptic toy
 while you play. Each game gets its own profile — keybinds, intensity ranges,
