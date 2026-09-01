@@ -4,6 +4,16 @@ All notable changes to this project are documented here. Versioning follows
 [Semantic Versioning](https://semver.org/) (`MAJOR.MINOR.PATCH`), independent
 of the main [TIGHC](https://github.com/TIGHC/Engine) engine's own version.
 
+## [1.0.5]
+
+### Fixed
+- **Mojibake in `commit.sh`/`commit.bat` console output** — an em dash in
+  the log/echo messages rendered as garbled bytes (e.g. `ÔÇö`) on the
+  default Windows console codepage. Replaced with plain ASCII dashes.
+- **Stale `## Contents` section in `README.md`** — it only mentioned
+  `profile/README.md`, never updated as `CHANGELOG.md`, `CONTRIBUTING.md`,
+  `VERSION.md`, and the commit scripts were added in later releases.
+
 ## [1.0.4]
 
 ### Fixed

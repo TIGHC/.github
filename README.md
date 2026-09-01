@@ -17,6 +17,13 @@ Repository: https://github.com/TIGHC/.github
 
 - **`profile/README.md`** — the public-facing organisation profile shown on
   the [TIGHC organisation page](https://github.com/TIGHC) on GitHub.
+- **`README.md`** — this file, describing the `.github` repo itself.
+- **`CHANGELOG.md`** / **`VERSION.md`** — this repo's own release history,
+  versioned independently of the Engine/Profiles/Website repos.
+- **`CONTRIBUTING.md`** — points to each repo's own `CONTRIBUTING.md` and
+  covers this repo's org-wide/community-health-file role.
+- **`commit.sh`** / **`commit.bat`** — commit+tag release scripts that read
+  the version from `VERSION.md`.
 
 ## Repositories
 
