@@ -4,6 +4,14 @@ All notable changes to this project are documented here. Versioning follows
 [Semantic Versioning](https://semver.org/) (`MAJOR.MINOR.PATCH`), independent
 of the main [TIGHC](https://github.com/TIGHC/Engine) engine's own version.
 
+## [1.0.6]
+
+### Changed
+- **`## Contents` scoped back down to `profile/README.md` only** — the
+  v1.0.5 expansion listing `CHANGELOG.md`/`CONTRIBUTING.md`/`VERSION.md`/
+  the commit scripts was unnecessary; those are standard scaffolding
+  present in every TIGHC repo and don't need separate documentation here.
+
 ## [1.0.5]
 
 ### Fixed
