@@ -19,15 +19,10 @@ so haptics switch games as you alt-tab.
 
 | Repo | Description |
 |------|-------------|
-| [Engine](https://github.com/TIGHC/Engine) | The haptics engine, GUI, and CLI |
+| [Engine](https://github.com/TIGHC/Engine) | The haptics engine and GUI |
 | [Profiles](https://github.com/TIGHC/Profiles) | Community game profiles |
 | [Website](https://github.com/TIGHC/Website) | Source for tighc.stuxie.dev |
 
-## Author
+---
 
-<img src="https://raw.githubusercontent.com/TIGHC/Engine/main/assets/author.png" width="80" height="80" alt="StuxieDev" align="left" style="margin-right: 12px;">
-
-**[StuxieDev](https://github.com/StuxieDev)**
-
-<br>
-<br>
+*Built & Maintained by <img src="https://github.com/StuxieDev.png" height="14" alt="StuxieDev" valign="middle"> [StuxieDev](https://github.com/StuxieDev).*

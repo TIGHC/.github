@@ -6,7 +6,7 @@
 
 TIGHC is split across three repos, each with its own `CONTRIBUTING.md`:
 
-- **[Engine](https://github.com/TIGHC/Engine)** - the haptics engine, GUI, and CLI
+- **[Engine](https://github.com/TIGHC/Engine)** - the haptics engine and GUI
 - **[Profiles](https://github.com/TIGHC/Profiles)** - community game profiles
 - **[Website](https://github.com/TIGHC/Website)** - source for tighc.stuxie.dev
 

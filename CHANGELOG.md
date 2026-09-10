@@ -4,6 +4,20 @@ All notable changes to this project are documented here. Versioning follows
 [Semantic Versioning](https://semver.org/) (`MAJOR.MINOR.PATCH`), independent
 of the main [TIGHC](https://github.com/TIGHC/Engine) engine's own version.
 
+## [1.0.8] - 2026-09-10
+
+### Fixed
+- `profile/README.md` (the public org profile shown on
+  [github.com/TIGHC](https://github.com/TIGHC)) still had the old `## Author`
+  block (avatar image + name) instead of the standard "Built & Maintained by
+  StuxieDev" footer line the v1.0.7 change applied to this repo's own
+  `README.md` - it was missed in that pass. Now matches.
+
+### Changed
+- Both `README.md` and `profile/README.md` describe Engine as "The haptics
+  engine and GUI", dropping the CLI mention now that Engine v5.0.0 removed
+  the headless CLI entirely.
+
 ## [1.0.7] - 2026-09-08
 
 ### Changed

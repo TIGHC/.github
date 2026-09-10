@@ -22,7 +22,7 @@ Repository: https://github.com/TIGHC/.github
 
 | Repo | Description |
 |------|-------------|
-| [Engine](https://github.com/TIGHC/Engine) | The haptics engine, GUI, and CLI |
+| [Engine](https://github.com/TIGHC/Engine) | The haptics engine and GUI |
 | [Profiles](https://github.com/TIGHC/Profiles) | Community game profiles |
 | [Website](https://github.com/TIGHC/Website) | Source for tighc.stuxie.dev |
 
