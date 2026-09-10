@@ -4,6 +4,16 @@ All notable changes to this project are documented here. Versioning follows
 [Semantic Versioning](https://semver.org/) (`MAJOR.MINOR.PATCH`), independent
 of the main [TIGHC](https://github.com/TIGHC/Engine) engine's own version.
 
+## [1.0.11] - 2026-09-10
+
+### Changed
+- **`README.md`/`profile/README.md`'s author byline now reads "A StuxieDev
+  Project"** (was "Built & Maintained by StuxieDev"), linking to
+  `https://projects.stuxie.dev` instead of `https://stuxie.dev`. No local
+  asset changes needed for the new icon (Engine v5.1.0) - both files
+  reference `assets/logo.png` via `raw.githubusercontent.com`, so they
+  pick it up automatically.
+
 ## [1.0.10] - 2026-09-10
 
 ### Changed

@@ -28,4 +28,4 @@ Repository: https://github.com/TIGHC/.github
 
 ---
 
-*Built & Maintained by <img src="https://github.com/StuxieDev.png" height="14" alt="StuxieDev" valign="middle"> [StuxieDev](https://stuxie.dev).*
+*A <img src="https://github.com/StuxieDev.png" height="14" alt="StuxieDev" valign="middle"> [StuxieDev](https://projects.stuxie.dev) Project.*
