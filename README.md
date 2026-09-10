@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TIGHC/Engine/main/assets/logo.png" width="500" alt="The Intiface Game Haptics Controller (TIGHC)">
+  <img src="https://raw.githubusercontent.com/TIGHC/Engine/main/assets/logo.png" width="300" alt="The Intiface Game Haptics Controller (TIGHC)">
 </p>
 
 # TIGHC .github

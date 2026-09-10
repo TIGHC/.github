@@ -4,6 +4,12 @@ All notable changes to this project are documented here. Versioning follows
 [Semantic Versioning](https://semver.org/) (`MAJOR.MINOR.PATCH`), independent
 of the main [TIGHC](https://github.com/TIGHC/Engine) engine's own version.
 
+## [1.0.9] - 2026-09-10
+
+### Changed
+- Shrunk the header logo in `README.md`/`CONTRIBUTING.md`/
+  `profile/README.md` from `width="500"` to `width="300"`.
+
 ## [1.0.8] - 2026-09-10
 
 ### Fixed
