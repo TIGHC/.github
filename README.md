@@ -8,7 +8,7 @@
 > based on your keyboard and mouse input while gaming. Intended for use only
 > by adults aged 18 or older.
 
-GitHub organisation profile for [TIGHC](https://github.com/TIGHC).
+GitHub organisation profile for [The Intiface Game Haptics Controller (TIGHC)](https://github.com/TIGHC).
 
 Website: https://tighc.stuxie.dev  
 Repository: https://github.com/TIGHC/.github
