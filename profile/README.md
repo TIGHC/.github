@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/TIGHC/Engine/main/assets/logo.png" width="300" alt="The Intiface Game Haptics Controller (TIGHC)">
 </p>
 
-# The Intiface Game Haptics Controller
+# TIGHC — The Intiface Game Haptics Controller
 
 > **18+ only.** TIGHC connects to and controls adult haptic/sex toy devices
 > based on your keyboard and mouse input while gaming. Intended for use only
@@ -25,4 +25,6 @@ so haptics switch games as you alt-tab.
 
 ---
 
-*Written & Maintained by <img src="https://github.com/StuxieDev.png" height="14" alt="StuxieDev" valign="middle"> [StuxieDev](https://projects.stuxie.dev).*
+*Written & Maintained by <img src="https://github.com/StuxieDev.png" height="14" alt="StuxieDev" valign="middle"> [StuxieDev](https://stuxie.dev).*
+
+*[A StuxieDev Project](https://projects.stuxie.dev)*
