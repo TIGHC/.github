@@ -4,6 +4,15 @@ All notable changes to this project are documented here. Versioning follows
 [Semantic Versioning](https://semver.org/) (`MAJOR.MINOR.PATCH`), independent
 of the main [TIGHC](https://github.com/TIGHC/Engine) engine's own version.
 
+## [1.0.12] - 2026-09-10
+
+### Changed
+- **Reverted the "A StuxieDev Project" byline wording from v1.0.11** - the
+  avatar icon belongs specifically with "Written & Maintained by [icon]
+  StuxieDev", not "A [icon] StuxieDev Project". `README.md`/
+  `profile/README.md` now read "Written & Maintained by StuxieDev", still
+  linking to `https://projects.stuxie.dev`.
+
 ## [1.0.11] - 2026-09-10
 
 ### Changed
