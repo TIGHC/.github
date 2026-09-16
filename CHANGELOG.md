@@ -4,6 +4,11 @@ All notable changes to this project are documented here. Versioning follows
 [Semantic Versioning](https://semver.org/) (`MAJOR.MINOR.PATCH`), independent
 of the main [TIGHC](https://github.com/TIGHC/Engine) engine's own version.
 
+## [1.0.14] - 2026-09-16
+
+### Added
+- Bluesky and LinkedIn badges (`bsky.app/profile/stuxie.dev`, `linkedin.com/company/stuxiedev`) in a new "Connect with Us!" section in `profile/README.md`, alongside a GitHub followers badge.
+
 ## [1.0.13] - 2026-09-15
 
 ### Fixed
