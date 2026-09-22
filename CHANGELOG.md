@@ -4,6 +4,12 @@ All notable changes to this project are documented here. Versioning follows
 [Semantic Versioning](https://semver.org/) (`MAJOR.MINOR.PATCH`), independent
 of the main [TIGHC](https://github.com/TIGHC/Engine) engine's own version.
 
+## [1.0.15] - 2026-09-22
+
+### Added
+- `generateMetrics.yml` workflow, matching the Stux.Group family's `.github` repos — generates `stats.svg` on the `metrics` branch daily and on push.
+- An "Our Activity" `stats.svg` embed in `profile/README.md`.
+
 ## [1.0.14] - 2026-09-16
 
 ### Added
